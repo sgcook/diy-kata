@@ -7,5 +7,4 @@ describe("booleanToWord", () => {
   test("returns No when passed false", () => {
     expect(booleanToWord(false)).toBe("No");
   });
-  // how do we create specs again???
 });
